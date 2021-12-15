@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xhiku07
-- 👀 I’m interested in python and economics 
+- 👀 I’m interested in Python, R and Economics 
 - 🌱 I’m currently learning lot of things.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
